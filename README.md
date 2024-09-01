@@ -1,7 +1,7 @@
 # WebVR Games
 
 In this repository you will find a currated list of cool WebVR games.
-And if you scroll a bit you'll find some other *cool* WebXR Experiences.
+And if you scroll a bit you'll find some other _cool_ WebXR Experiences.
 
 ## The list:
 
@@ -9,15 +9,17 @@ And if you scroll a bit you'll find some other *cool* WebXR Experiences.
 
 - [Up There](https://ngokevin.github.io/up-there-webvr) - Planetarium of 100K real stars. Spot exoplanets, travel through time, hold the galaxy in your hands with the grip buttons.
 - [Float](https://ngokevin.github.io/float/) - A puzzle of floating platforms admist blooming plants and sky islands.
-- [Konterball](https://github.com/madebywild/konterball) - Konterball is a single or 2-player virtual reality game, built for the web as a Google VR Chrome Experiment. 
+- [Konterball](https://github.com/madebywild/konterball) - Konterball is a single or 2-player virtual reality game, built for the web as a Google VR Chrome Experiment.
 - [Spot the bot](https://github.com/hookerz/spot-the-bot) - A cooperative WebVR game "Spot as many bots as you can"
 - [SpaceRocks](https://github.com/moar-tech/spacerocks) - Escape through space on stolen plasma engines while slinging photon bolts at deadly asteroids.
 - [Plockle](https://plockle.com) - A challenging block puzzle game with hand tracking!
 
 ### Multiplayer games:
+
 - [VRBlocks](https://vrblocks.gatunes.com/) - A tranquil multiplayer Minecraft-like sandbox. The sequel to Walking Simulator.
 
-### Games : 
+### Games :
+
 - [Barista Express](https://constructarca.de/construct-arcade/game/barista-express/game/) - Virtually be a barista in your own cafe.
 - [Soundboxing Beta](https://webvr.soundboxing.co/) - A VR music kickboxing game with beats created by people. If you feel the urge to dance, you're doing it right!
 - [Gunters of OASIS](https://supermedium.com/gunters-of-oasis-deploy/) - Hundreds of generated worlds, among one lies a golden egg. First gunters to find it inherit half a hundred dollars and the OASIS.
@@ -45,8 +47,10 @@ And if you scroll a bit you'll find some other *cool* WebXR Experiences.
 - [Realms VR](https://realmsvr.gatunes.com) - A recursive VR experience.
 - [Blue Cyber: Episode 1](https://www.bluecybervr.com/episode01/) - You are charged to protect the galaxy with powers given from the artfiact, Blue Cyber. A science fantasy VR story.
 - [Moon Rider](https://moonrider.xyz) - Surf the musical road among the stars, moon, and lights.
+- [Cielos](https://cielosvr.space) - Evade and shoot down enemy spacecraft in a high altitude dog fight.
 
 ### Music Experiences :
+
 - [Inside Music](https://experiments.withgoogle.com/webvr/inside-music/view/) - Step inside music to get a closer look at how they're made. Explode songs to their individual ingredients.
 - [Track](https://demos.littleworkshop.fr/demos/track/) - Go on a trip. Randomly ever-changing environment composed of various geometrical shapes.
 - [Origami Simulator](http://apps.amandaghassaei.com/OrigamiSimulator/) - Grab, stretch, and simulate dozens of origami patterns folding and creasing simultaneously in 3D.
